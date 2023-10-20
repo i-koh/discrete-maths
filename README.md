@@ -9,7 +9,3 @@ This is the dedicated storage space for maths-related notes, exercise answers an
 ```
 
 To trigger GitHub’s **online IDE**, replace `github.com/*` with `github.`**`dev`**`/*` and the online editor will load.
-
-```math
-S = {n \in \text{\textbf{S}} : \ P(n) \ \text{is false.}}
-```
