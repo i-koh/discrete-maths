@@ -8,6 +8,6 @@ This is the dedicated storage space for maths-related notes, exercise answers an
 `$…$`
 ```
 
-Display maths are best written in a code block. It’s possible to use `katex` to specify the LaTeX generator instead of just `math` – KaTeX is known to be quicker to render than MathJax, which is what GitHub uses by default.
+Display maths are best written in a **code block**. It’s possible to use `katex` to specify the LaTeX generator instead of just `math` – KaTeX is known to be quicker to render than MathJax, which is what GitHub uses by default.
 
 To trigger GitHub’s **online IDE**, replace `github.com/*` with `github.dev/*` and the online editor will load.
