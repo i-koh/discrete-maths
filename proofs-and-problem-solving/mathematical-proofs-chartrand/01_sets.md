@@ -131,6 +131,7 @@ $$
 
 $$
 \begin{aligned}
-x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0
+x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
+x &= - \sqrt{2}
 \end{aligned}
 $$
