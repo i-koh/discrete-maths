@@ -37,7 +37,12 @@ List the elements of the following sets within braces.
 
 - `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`  
     `$\{-3, -2, -1, 0, 1, 2, 3, 4\}$`
-- `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`
-- `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`
+- `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`  
+    `$$\{1, 2\}`
+- `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`  
+    ```
+    ghci> filter (\y -> y < 100) $ map (\x -> x^3) [1..]
+    [1,8,27,64]
+    ```
 - `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
 - `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
