@@ -25,6 +25,7 @@ _Notes and exercise answers_
     \end{aligned}
     $$
     ```
+  Failing to escape twice causes the curly braces to be unrecognised, and they will not be rendered.
 
 ## 1.1: Describing a set
 
