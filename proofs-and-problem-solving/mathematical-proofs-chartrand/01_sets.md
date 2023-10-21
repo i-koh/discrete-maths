@@ -54,5 +54,7 @@ List the elements of the following sets within braces.
     \end{aligned}
     $$
 
-    Therefore, we have `${0, 1}$`.
+    Therefore, we have `$\{0, 1\}$`.
 - `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
+
+    Since `$x = i$` or `$x = -i$`, we have `$\{\varnothing\}$` as the element of `$E$`.
