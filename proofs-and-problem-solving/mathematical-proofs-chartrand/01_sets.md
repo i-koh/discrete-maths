@@ -54,3 +54,12 @@ x = 0 \ \text{or} \ x &= 1 \\
 \end{aligned}
 $$
 - `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
+
+$$
+\begin{aligned}
+x^2 - x &= 0 \\
+x(x - 1) &= 0 \\
+x = 0 \ \text{or} \ x &= 1 \\
+\text{Therefore } \{0, 1\}
+\end{aligned}
+$$
