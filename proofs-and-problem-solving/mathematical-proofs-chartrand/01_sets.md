@@ -64,4 +64,14 @@ Rewrite each set in the form `$\{x \in \mathbb{Z}: \ p(x)\}$`. (Refer to the tex
 
 - `$A = \{x \in \mathbb{Z}: \ x < 0\}$`
 - `$B = \{x \in \mathbb{Z}: \ -3 \leq x \leq 3\}$`
-- `$C = \{x \in \mathbb{Z}: \ -2 \leq x \leq 2 \text{excluding zero}\}$`
+- `$C = \{x \in \mathbb{Z}: \ -2 \leq x \leq 2 \ \text{excluding zero}\}$`
+
+**Question 1.7**
+
+The _defining condition_ of a set `$E = \{..., -4, -2, 0, 2, 4, ...\}$` can be written as
+
+$$
+\begin{aligned}
+E &= \left\{y = 2x: \ x \in \mathbb{Z}\right\}
+\end{aligned}
+$$
