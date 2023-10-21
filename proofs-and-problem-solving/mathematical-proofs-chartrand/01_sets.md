@@ -143,8 +143,8 @@ Since `$\sqrt{2}$` is an _irrational_ number, `$D = \{\varnothing\}$`.
 
 $$
 \begin{aligned}
-|A| = 6
-|C| = 2
-|D| = 0
+|A| &= 6 \\
+|C| &= 2 \\
+|D| &= 0
 \end{aligned}
 $$
