@@ -54,7 +54,7 @@ List the elements of the following sets within braces.
 - `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`  
     `$\{-3, -2, -1, 0, 1, 2, 3, 4\}$`
 - `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`  
-    `$$\{1, 2\}`
+    `$\{1, 2\}$`
 - `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`  
     ```
     ghci> filter (\y -> y < 100) $ map (\x -> x^3) [1..]
@@ -62,12 +62,12 @@ List the elements of the following sets within braces.
     ```
 - `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
 
-$$
-\begin{aligned}
-x^2 - x &= 0 \\
-x(x - 1) &= 0 \\
-\end{aligned}
-$$
+    $$
+    \begin{aligned}
+    x^2 - x &= 0 \\
+    x(x - 1) &= 0 \\
+    \end{aligned}
+    $$
 
     Since `$x = 0$` or `$x = 1$`, we have `$\{0, 1\}$`.
 - `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
@@ -141,10 +141,10 @@ As such, `$C = \{-2\sqrt{2}, 2 - \sqrt{2}\}$`.
 Since `$\sqrt{2}$` is an _irrational_ number, `$D = \{\varnothing\}$`.
 - Determine the cardinality of each of the sets `$A$`, `$C$` and `$D$`.
 
-$$
-\begin{aligned}
-|A| &= 6 \\
-|C| &= 2 \\
-|D| &= 0
-\end{aligned}
-$$
+    $$
+    \begin{aligned}
+    |A| &= 6 \\
+    |C| &= 2 \\
+    |D| &= 0
+    \end{aligned}
+    $$
