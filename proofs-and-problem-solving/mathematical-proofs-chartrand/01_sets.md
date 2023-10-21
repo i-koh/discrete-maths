@@ -126,5 +126,15 @@ x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
 x(x - 2 - \sqrt{2}) &= -2\sqrt{2}
 \end{aligned}
 $$
+
+  We have that `$x = -2\sqrt{2}$` or `$x - 2 - \sqrt{2} = -2\sqrt{2}$`. Working on the second root, we have
+
+$$
+\begin{aligned}
+x = 2 - \sqrt{2}.
+\end{aligned}
+$$
+
+  But `$\sqrt{2}$` is an _irrational_ number, thus `$C = \{\varnothing\}$`.
 - Describe the set `$D$` in another manner.
 - Determine the cardinality of each of the sets `$A$`, `$C$` and `$D$`.
