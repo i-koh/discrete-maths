@@ -44,13 +44,14 @@ List the elements of the following sets within braces.
     ghci> filter (\y -> y < 100) $ map (\x -> x^3) [1..]
     [1,8,27,64]
     ```
-- `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`  
+- `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
+
 $$
 \begin{aligned}
 x^2 - x &= 0 \\
 x(x - 1) &= 0 \\
 x = 0 \ \text{or} \ x &= 1 \\
-\text{Therefore } \{0, 1\}
+\text{Therefore we have } {0, 1}
 \end{aligned}
 $$
 - `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
