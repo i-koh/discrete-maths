@@ -19,5 +19,5 @@ _Notes and exercise answers_
 
 The following are sets:
 
-- `${1, {2}, 3}$`
-- `$1, 2, a, b$`
+- `$\{1, {2}, 3\}$`
+- `$\{1, 2, a, b\}$`
