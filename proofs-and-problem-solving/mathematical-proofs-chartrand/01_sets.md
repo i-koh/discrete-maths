@@ -107,7 +107,8 @@ $$
 \begin{aligned}
 A &= \\{n \in \mathbb{Z}: \ 2 \leq |n| \leq 4\\}, \\
 B &= \\{x \in \mathbb{Q}: \ 2 < x \leq 4\\}, \\
-C &= \\{x \in \mathbb{R}: \ x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} = 0\\}.
+C &= \\{x \in \mathbb{R}: \ x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} = 0\\}, \\
+and D &= \\{x \in \mathbb{Q}: \ x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} = 0\\}.
 \end{aligned}
 $$
 
