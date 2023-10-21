@@ -35,7 +35,7 @@ Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets i
 
 List the elements of the following sets within braces.
 
-- `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`
+- `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`  
     `$\{-3, -2, -1, 0, 1, 2, 3, 4\}$`
 - `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`
 - `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`
