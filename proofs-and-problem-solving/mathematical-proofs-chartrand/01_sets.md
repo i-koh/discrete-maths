@@ -35,8 +35,9 @@ Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets i
 
 List the elements of the following sets within braces.
 
-1. `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`
-2. `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`
-3. `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`
-4. `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
-5. `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
+- `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`
+    `$\{-3, -2, -1, 0, 1, 2, 3, 4\}$`
+- `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`
+- `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`
+- `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
+- `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
