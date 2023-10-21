@@ -122,8 +122,8 @@ $$
 
     $$
     \begin{aligned}
-    x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
-    x(x - 2 - \sqrt{2}) &= - \sqrt{2}
+    x^2 - \\(2 + \sqrt{2}\\)x + 2 \sqrt{2} &= 0 \\
+    x\\(x - 2 - \sqrt{2}\\) &= - \sqrt{2}
     \end{aligned}
     $$
 - Describe the set `$D$` in another manner.
