@@ -120,11 +120,11 @@ $$
     `$\left\{\frac{8}{3}, \frac{10}{3}, \frac{11}{3}\right\}$`
 - Describe the set `$C$` by listing its elements.
 
-    $$
-    \begin{aligned}
-    x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
-    x(x - 2 - \sqrt{2}) &= -2\sqrt{2}
-    \end{aligned}
-    $$
+$$
+\begin{aligned}
+x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
+x(x - 2 - \sqrt{2}) &= -2\sqrt{2}
+\end{aligned}
+$$
 - Describe the set `$D$` in another manner.
 - Determine the cardinality of each of the sets `$A$`, `$C$` and `$D$`.
