@@ -120,22 +120,22 @@ $$
     `$\left\{\frac{8}{3}, \frac{10}{3}, \frac{11}{3}\right\}$`
 - Describe the set `$C$` by listing its elements.
 
-    $$
-    \begin{aligned}
-    x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
-    x(x - 2 - \sqrt{2}) &= -2\sqrt{2}
-    \end{aligned}
-    $$
+$$
+\begin{aligned}
+x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
+x(x - 2 - \sqrt{2}) &= -2\sqrt{2}
+\end{aligned}
+$$
 
-    We have that `$x = -2\sqrt{2}$` or `$x - 2 - \sqrt{2} = -2\sqrt{2}$`. Working on the second root, we have
+We have that `$x = -2\sqrt{2}$` or `$x - 2 - \sqrt{2} = -2\sqrt{2}$`. Working on the second root, we have
 
-    $$
-    \begin{aligned}
-    x = 2 - \sqrt{2}.
-    \end{aligned}
-    $$
+$$
+\begin{aligned}
+x = 2 - \sqrt{2}.
+\end{aligned}
+$$
 
-    As such, `$C = \{-2\sqrt{2}, 2 - \sqrt{2}\}$`.
+As such, `$C = \{-2\sqrt{2}, 2 - \sqrt{2}\}$`.
 - Describe the set `$D$` in another manner.
 
 Since `$\sqrt{2}$` is an _irrational_ number, `$D = \{\varnothing\}$`.
