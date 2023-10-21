@@ -19,5 +19,14 @@ _Notes and exercise answers_
 
 The following are sets:
 
-- `$\{1, {2}, 3\}$`
+- `$\{1, \{2\}, 3\}$`
 - `$\{1, 2, a, b\}$`
+
+**Question 2**
+
+Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets in terms of `$S$`. Use the form `$\{x \in S: \ p(x)\}$`, where `p(x)` refers to some appropriate condition that the sets’ elements satisfy.
+
+- `$A = \{1, 2, 3\}$`: `$\{x \in S: \ x \in \mathbb{Z}^+\}$`
+- `$B = \{0, 1, 2, 3\}$`: `$\{x \in S: \ x \geq 0\}$`
+- `$C = \{-2, -1\}$`: `$\{x \in S: \ x < 0\}$`
+- `$D = \{-2, 2, 3\}$`: `$\{x \in S: \ x \notin \{-1, 0, 1\}\}$`
