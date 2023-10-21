@@ -11,6 +11,13 @@ _Notes and exercise answers_
 | `$\mathbb{R}$` | Real numbers (`$\mathbb{R} \subset \mathbb{C}$`) |
 | `$\mathbb{C}$` | Complex numbers |
 
+## A note on rendering sets with `$\LaTeX$` using GitHub Markdown
+
+- For inline expressions, use this form:
+```
+`$\{\}$`
+```
+
 ## 1.1: Describing a set
 
 ### Exercises
