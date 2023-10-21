@@ -117,7 +117,7 @@ $$
     `$A = \{-4, -3, -2, 2, 3, 4\}$`
 - Give an example of three elements that belong to `$B$` but do not belong to `$A$`.
 
-    `$\{\frac{8}{3}, \frac{10}{3}, \frac{11}{3}\}$`
+    `$\left\{\frac{8}{3}, \frac{10}{3}, \frac{11}{3}\right\}$`
 - Describe the set `$C$` by listing its elements.
 - Describe the set `$D$` in another manner.
 - Determine the cardinality of each of the sets `$A$`, `$C$` and `$D$`.
