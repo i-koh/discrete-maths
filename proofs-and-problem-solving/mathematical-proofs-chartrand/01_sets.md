@@ -22,7 +22,7 @@ The following are sets:
 - `$\{1, \{2\}, 3\}$`
 - `$\{1, 2, a, b\}$`
 
-**Question 2**
+**Question 1.2**
 
 Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets in terms of `$S$`. Use the form `$\{x \in S: \ p(x)\}$`, where `p(x)` refers to some appropriate condition that the sets’ elements satisfy.
 
@@ -30,3 +30,13 @@ Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets i
 - `$B = \{0, 1, 2, 3\}$`: `$\{x \in S: \ x \geq 0\}$`
 - `$C = \{-2, -1\}$`: `$\{x \in S: \ x < 0\}$`
 - `$D = \{-2, 2, 3\}$`: `$\{x \in S: \ x \notin \{-1, 0, 1\}\}$`
+
+**Question 1.4**
+
+List the elements of the following sets within braces.
+
+1. `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`
+2. `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`
+3. `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`
+4. `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
+5. `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
