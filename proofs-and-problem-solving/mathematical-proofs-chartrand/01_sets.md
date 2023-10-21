@@ -141,10 +141,10 @@ As such, `$C = \{-2\sqrt{2}, 2 - \sqrt{2}\}$`.
 Since `$\sqrt{2}$` is an _irrational_ number, `$D = \{\varnothing\}$`.
 - Determine the cardinality of each of the sets `$A$`, `$C$` and `$D$`.
 
-    $$
-    \begin{aligned}
-    |A| &= 6 \\
-    |C| &= 2 \\
-    |D| &= 0
-    \end{aligned}
-    $$
+$$
+\begin{aligned}
+|A| &= 6 \\
+|C| &= 2 \\
+|D| &= 0
+\end{aligned}
+$$
