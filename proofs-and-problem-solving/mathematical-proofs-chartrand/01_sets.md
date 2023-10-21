@@ -119,23 +119,11 @@ $$
 
     `$\left\{\frac{8}{3}, \frac{10}{3}, \frac{11}{3}\right\}$`
 - Describe the set `$C$` by listing its elements.
-
-<<<<<<< HEAD
-    $$
-    \begin{aligned}
-    x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
-    x(x - 2 - \sqrt{2}) &= -2\sqrt{2}
-    \end{aligned}
-    $$
-=======
 $$
 \begin{aligned}
 x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} &= 0 \\
 x(x - 2 - \sqrt{2}) &= -2\sqrt{2}
 \end{aligned}
 $$
->>>>>>> d2c9b5ba4f7f971d29324c0bc86a543c9287c0a3
 - Describe the set `$D$` in another manner.
 - Determine the cardinality of each of the sets `$A$`, `$C$` and `$D$`.
-<<<<<<< HEAD
-=======
