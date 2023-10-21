@@ -50,11 +50,18 @@ List the elements of the following sets within braces.
     \begin{aligned}
     x^2 - x &= 0 \\
     x(x - 1) &= 0 \\
-    x = 0 \ \text{or} \ x &= 1 \\
     \end{aligned}
     $$
 
-    Therefore, we have `$\{0, 1\}$`.
+    Since `$x = 0$` or `$x = 1$`, we have `$\{0, 1\}$`.
 - `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
 
     Since `$x = i$` or `$x = -i$`, we have `$\{\varnothing\}$` as the element of `$E$`.
+
+**Question 1.5**
+
+Rewrite each set in the form `$\{x \in \mathbb{Z}: \ p(x)\}$`. (Refer to the text for the original form of the sets.)
+
+- `$A = \{x \in \mathbb{Z}: \ x < 0\}$`
+- `$B = \{x \in \mathbb{Z}: \ -3 \leq x \leq 3\}$`
+- `$C = \{x \in \mathbb{Z}: \ -2 \leq x \leq 2 \text{excluding zero}\}$`
