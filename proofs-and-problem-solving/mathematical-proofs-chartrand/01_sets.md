@@ -135,7 +135,7 @@ x = 2 - \sqrt{2}.
 \end{aligned}
 $$
 
-As such, `$C = \{-2\sqrt{2}, 2 - \sqrt{2}\}$`.
+    As such, `$C = \{-2\sqrt{2}, 2 - \sqrt{2}\}$`.
 - Describe the set `$D$` in another manner.
 
 Since `$\sqrt{2}$` is an _irrational_ number, `$D = \{\varnothing\}$`.
