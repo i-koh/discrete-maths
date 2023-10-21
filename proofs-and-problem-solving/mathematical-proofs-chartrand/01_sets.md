@@ -98,3 +98,15 @@ Describe the following sets similarly.
 - `$A = \{..., -4, -1, 2, 5, 8, ...\} = \{3x - 1: x \in \mathbb{Z}\}$`
 - `$B = \{..., -10, -5, 0, 5, 10, ...\} = \{5x: x \in \mathbb{Z}\}$`
 - `$C = \{1, 8, 27, 64, 125, ...\} = \{x^3: x \in \mathbb{Z}\}$`
+
+**Question 1.8**
+
+Let
+
+$$
+\begin{aligned}
+A &= \\{n \in \mathbb{Z}: \ 2 \leq |n| \leq 4\\},
+B &= \\{x \in \mathbb{Q}: \ 2 < x \leq 4\\},
+C you &= \\{x \in \mathbb{R}: \ x^2 - (2 + \sqrt{2}) + 2 \sqrt{2} = 0\\}
+\end{aligned}
+$$
