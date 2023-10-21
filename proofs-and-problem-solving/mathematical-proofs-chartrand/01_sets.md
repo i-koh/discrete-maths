@@ -107,6 +107,12 @@ $$
 \begin{aligned}
 A &= \\{n \in \mathbb{Z}: \ 2 \leq |n| \leq 4\\}, \\
 B &= \\{x \in \mathbb{Q}: \ 2 < x \leq 4\\}, \\
-C you &= \\{x \in \mathbb{R}: \ x^2 - (2 + \sqrt{2}) + 2 \sqrt{2} = 0\\}
+C &= \\{x \in \mathbb{R}: \ x^2 - (2 + \sqrt{2})x + 2 \sqrt{2} = 0\\}.
 \end{aligned}
 $$
+
+- Describe the set `$A$` by listing its elements.
+- Give an example of three elements that belong to `$B$` but do not belong to `$A$`.
+- Describe the set `$C$` by listing its elements.
+- Describe the set `$D$` in another manner.
+- Determine the cardinality of each of the sets `$A$`, `$C$` and `$D$`.
