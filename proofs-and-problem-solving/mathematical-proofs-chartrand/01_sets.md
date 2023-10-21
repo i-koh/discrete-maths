@@ -72,6 +72,6 @@ The _defining condition_ of a set `$E = \{..., -4, -2, 0, 2, 4, ...\}$` can be w
 
 $$
 \begin{aligned}
-E &= \{y = 2x: \ x \in \mathbb{Z}\}
+E &= \\{y = 2x: \ x \in \mathbb{Z}\\}
 \end{aligned}
 $$
