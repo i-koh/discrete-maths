@@ -105,8 +105,8 @@ Let
 
 $$
 \begin{aligned}
-A &= \\{n \in \mathbb{Z}: \ 2 \leq |n| \leq 4\\},
-B &= \\{x \in \mathbb{Q}: \ 2 < x \leq 4\\},
+A &= \\{n \in \mathbb{Z}: \ 2 \leq |n| \leq 4\\}, \\
+B &= \\{x \in \mathbb{Q}: \ 2 < x \leq 4\\}, \\
 C you &= \\{x \in \mathbb{R}: \ x^2 - (2 + \sqrt{2}) + 2 \sqrt{2} = 0\\}
 \end{aligned}
 $$
