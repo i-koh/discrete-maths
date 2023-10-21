@@ -45,10 +45,10 @@ List the elements of the following sets within braces.
     [1,8,27,64]
     ```
 - `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`  
-    $$
+    `$$
     x^2 - x &= 0 \\
     x(x - 1) &= 0 \\
     x = 0 \ \text{or} \ x &= 1 \\
     \text{Therefore } \{0, 1\}
-    $$
+    $$`
 - `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
