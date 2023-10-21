@@ -13,10 +13,18 @@ _Notes and exercise answers_
 
 ## A note on rendering sets with `$\LaTeX$` using GitHub Markdown
 
-- For inline expressions, use this form:
-```
-`$\{\}$`
-```
+- For **inline** expressions, use this form:
+    ```
+    `$\{<elements_of_set>\}$`
+    ```
+- For **displays**, use this form and note that the curly braces have to be escaped _twice_:
+    ```
+    $$
+    \begin{aligned}
+    \\{<elements_of_set>\\}
+    \end{aligned}
+    $$
+    ```
 
 ## 1.1: Describing a set
 
