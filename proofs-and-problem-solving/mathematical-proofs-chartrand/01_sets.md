@@ -73,5 +73,12 @@ The _defining condition_ of a set `$E = \{..., -4, -2, 0, 2, 4, ...\}$` can be w
 $$
 \begin{aligned}
 E &= \\{y = 2x: \ x \in \mathbb{Z}\\}
+&= \\{2x: x \in \mathbb{Z}\\}.
 \end{aligned}
 $$
+
+Describe the following sets similarly.
+
+- `$A = \{..., -4, -1, 2, 5, 8, ...\}$ = \{3x - 1: x \in \mathbb{Z}\}`
+- `$B = \{..., -10, -5, 0, 5, 10, ...\} = \{5x: x \in \mathbb{Z}\}$`
+- `$C = \{1, 8, 27, 64, 125, ...\}$ = \{x^3: x \in \mathbb{Z}\}`
