@@ -199,9 +199,9 @@ For each set `$A$` below, determine `$\mathcal{P}(A)$`, `$|A|$` and `$|\mathcal{
 
 $$
 \begin{aligned}
-\mathcal{P}(A) &= \\
-|A| &= \\
-|\mathcal{P}(A)| &=
+\mathcal{P}(A) &= \\{\varnothing\\} \\
+|A| &= 0 \\
+|\mathcal{P}(A)| &= 1
 \end{aligned}
 $$
 
@@ -209,9 +209,9 @@ $$
 
 $$
 \begin{aligned}
-\mathcal{P}(A) &= \\
-|A| &= \\
-|\mathcal{P}(A)| &=
+\mathcal{P}(A) &= \\{\\{a\\}, \\{b\\}, \\{a, b\\}\\} \\
+|A| &= 2 \\
+|\mathcal{P}(A)| &= 4
 \end{aligned}
 $$
 
