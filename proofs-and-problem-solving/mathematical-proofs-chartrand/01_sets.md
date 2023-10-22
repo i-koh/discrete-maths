@@ -169,7 +169,7 @@ $$
 - The **universal set** is denoted as `$U$` and it is the set we define in which our subsets of interest live. For example, when using Venn diagrams to draw sets, `$U$` is the rectangle that surround the circles (representing the subsets).
 - If we have two sets `$A$` and `$B$` such that `$A \subseteq B$` and `$B \subseteq A$`, then `$A = B$`. Thus, an element `$x \in A$` is also said to have membership in `$B$`.
 - A set `$A$` is a **proper subset** of a set `$B$` if `$A \subseteq B$` and `$A \neq B$`. In such a case we write `$A \subset B$`.
-- The **power set** of a given set `$A$` is denoted as `$\mathcal{P}(A)$` and constitutes all combinations of subsets of `$A$`. Hence, if `$A = \{1, 2\}$`, then `$\mathcal{P}(A) = \{\{1\}, \{2\}, \{1, 2\}\}$`.
+- The **power set** of a given set `$A$` is denoted as `$\mathcal{P}(A)$` and constitutes all combinations of subsets of `$A$`. Hence, if `$A = \{1, 2\}$`, then `$\mathcal{P}(A) = \{\{1\}, \{2\}, \{1, 2\}\}$`. It is called a power set because, if `$A$` is a finite set, then `$\mathcal{P}(A) = 2^{|A|}$`. Notice that there is no specification stating that `$A$` must be non-empty – `$\mathcal{P}(\{\varnothing\}) = 2^{|\{\varnothing\}|} = 2^0 = 1$`.
 
 ### Worked examples
 
