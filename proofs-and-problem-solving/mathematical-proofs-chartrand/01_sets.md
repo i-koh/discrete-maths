@@ -180,4 +180,4 @@ $$
 
 We know that `$1$` and `$2$` are mutually exclusive, so we’ll pick `$1$` for `$A$` (meaning that `$2$` goes to `$B$`). So now `$A$` and `$B$` each has one element. Next we assume that `$5$` is a member of both sets; `$A$` and `$B$` now have two elements each.
 
-Since `$3$` and `$4$` belong to one set but not the other, we can take our pick of either number for `$A$`. Accordingly, `$A$` can be described as either `$\{1, 3, 5\}$` or `$\{1, 4, 5\}$`. `$\hfill \blacksquare$`
+We finish off both sets by determining what goes into which so that both will have a dimension of 3. Since `$3$` and `$4$` belong to one set but not the other, we can take our pick of either number for `$A$`. Accordingly, `$A \subseteq \{1, 2, 3, 4, 5\}$` can be described as either `$\{1, 3, 5\}$` or `$\{1, 4, 5\}$`.
