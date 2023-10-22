@@ -162,6 +162,11 @@ $$
 
 ## 1.2 Subsets
 
+- A set `$A$` is a subset of a set `$B$` if every element in `$A$` is also an element in `$B$`.
+- By the above definition, every set is a subset of itself.
+- A set `$C$` is _not_ a subset of a set `$D$` if `$C$` has at least one element that is absent in `$D$.`
+- Since the empty set `$\varnothing$` contains no elements, it cannot have an element that is absent in another set; going by the above definition, we can _never_ have a situation where `$\varnothing \subseteq E$`, where `$E$` is an arbitrary non-empty set. Therefore, we conclude with the opposite assertion: `$\varnothing$` is a subset of every set.
+
 ### Worked examples
 
 **EXAMPLE 1.6.**
@@ -178,6 +183,6 @@ $$
 >
 > What are the possibilities for the set `$A$`?
 
-We know that `$1$` and `$2$` are mutually exclusive, so we’ll pick `$1$` for `$A$` (meaning that `$2$` goes to `$B$`). So now `$A$` and `$B$` each has one element. Next we assume that `$5$` is a member of both sets; `$A$` and `$B$` now have two elements each.
+We know that `$1$` and `$2$`’s set memberships are mutually exclusive, so we’ll pick `$1$` for `$A$` (meaning that `$2$` goes to `$B$`). `$A$` and `$B$` each has one element. Next we assume that `$5$` is a member of both sets; `$A$` and `$B$` now have two elements each.
 
 We finish off both sets by determining what goes into which so that both will have a dimension of 3. Since `$3$` and `$4$` belong to one set but not the other, we can take our pick of either number for `$A$`. Accordingly, `$A \subseteq \{1, 2, 3, 4, 5\}$` can be described as either `$\{1, 3, 5\}$` or `$\{1, 4, 5\}$`.
