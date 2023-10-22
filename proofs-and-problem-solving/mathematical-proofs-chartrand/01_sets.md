@@ -168,6 +168,7 @@ $$
 - Since the empty set `$\varnothing$` contains no elements, it cannot have an element that is absent in another set; going by the above definition, we can _never_ have a situation in which `$\varnothing \not\subseteq E$`, where `$E$` is an arbitrary non-empty set. Therefore, we conclude with the opposite assertion: `$\varnothing$` is a subset of every set.
 - If we have two sets `$A$` and `$B$` such that `$A \subseteq B$` and `$B \subseteq A$`, then `$A = B$`. Thus, an element `$x \in A$` is also said to have membership in `$B$`.
 - A set `$A$` is a _proper subset_ of a set `$B$` if `$A \subseteq B$` and `$A \neq B$`. In such a case we write `$A \subset B$`.
+- The _power set_ of a given set `$A$` is denoted as `$\mathcal{P}(A)$` and constitutes all combinations of subsets of `$A$`.
 
 ### Worked examples
 
