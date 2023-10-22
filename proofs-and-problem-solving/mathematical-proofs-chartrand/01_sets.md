@@ -197,6 +197,30 @@ For each set `$A$` below, determine `$\mathcal{P}(A)$`, `$|A|$` and `$|\mathcal{
 
 > `$A = \{\varnothing\}$`
 
+$$
+\begin{aligned}
+\mathcal{P}(A) &= \\
+|A| &= \\
+|\mathcal{P}(A)| &=
+\end{aligned}
+$$
+
 > `$A = \{a, b\}$`
 
+$$
+\begin{aligned}
+\mathcal{P}(A) &= \\
+|A| &= \\
+|\mathcal{P}(A)| &=
+\end{aligned}
+$$
+
 > `$A = \{1, 2, 3\}$`
+
+$$
+\begin{aligned}
+\mathcal{P}(A) &= \\
+|A| &= \\
+|\mathcal{P}(A)| &=
+\end{aligned}
+$$
