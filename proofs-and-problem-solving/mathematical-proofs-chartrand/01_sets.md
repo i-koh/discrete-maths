@@ -170,10 +170,10 @@ $$
 >
 > We also have the following constraints:
 >
-> - 1 belongs to `$A$` but not `$B$`.
-> - 2 belongs to `$A$` but not `$B$`.
-> - 3 belongs to exactly one of `$A$` and `$B$`.
-> - 4 belongs to exactly one of `$A$` and `$B$`.
-> - 5 belongs to at least one of `$A$` and `$B$`.
+> - `$1$` belongs to `$A$` but not `$B$`.
+> - `$2$` belongs to `$A$` but not `$B$`.
+> - `$3$` belongs to exactly one of `$A$` and `$B$`.
+> - `$4$` belongs to exactly one of `$A$` and `$B$`.
+> - `$5$` belongs to at least one of `$A$` and `$B$`.
 >
 > What are the possibilities for the set `$A$`?
