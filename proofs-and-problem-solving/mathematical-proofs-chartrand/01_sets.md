@@ -225,4 +225,4 @@ $$
 \end{aligned}
 $$
 
-Be aware that, in `$\mathcal{P}(A)$`, `$\varnothing$` appears as itself and not `$\{\varnothing\}$` (which is interpreted as a subset containing an empty set). It’s important to remember that `$\varnothing \neq \{\varnothing\}$`.
+**Be aware that,** in `$\mathcal{P}(A)$`, `$\varnothing$` appears as itself and not `$\{\varnothing\}$` (which is interpreted as a subset containing an empty set). It’s important to remember that `$\varnothing \neq \{\varnothing\}$`.
