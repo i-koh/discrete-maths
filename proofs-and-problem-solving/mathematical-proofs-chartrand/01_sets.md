@@ -27,18 +27,18 @@ _Notes and exercise answers_
     ```
   Failing to escape twice causes the curly braces to be unrecognised, and they will not be rendered.
 
-## 1.1: Describing a set
+## 1.1 Describing a set
 
 ### Exercises
 
-**QUESTION 1.1**
+**QUESTION 1.1.**
 
 The following are sets:
 
 - `$\{1, \{2\}, 3\}$`
 - `$\{1, 2, a, b\}$`
 
-**QUESTION 1.2**
+**QUESTION 1.2.**
 
 Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets in terms of `$S$`. Use the form `$\{x \in S: \ p(x)\}$`, where `$p(x)$` refers to some appropriate condition that the sets’ elements satisfy.
 
@@ -47,7 +47,7 @@ Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets i
 - `$C = \{-2, -1\}$`: `$\{x \in S: \ x < 0\}$`
 - `$D = \{-2, 2, 3\}$`: `$\{x \in S: \ x \notin \{-1, 0, 1\}\}$`
 
-**QUESTION 1.4**
+**QUESTION 1.4.**
 
 List the elements of the following sets within braces.
 
@@ -81,7 +81,7 @@ Since `$x = 0$` or `$x = 1$`, we have `$\{0, 1\}$`.
 
 Since `$x = i$` or `$x = -i$`, we have `$\{\varnothing\}$` as the element of `$E$`.
 
-**QUESTION 1.5**
+**QUESTION 1.5.**
 
 Rewrite each set in the form `$\{x \in \mathbb{Z}: \ p(x)\}$`. (Refer to the text for the original form of the sets.)
 
@@ -89,7 +89,7 @@ Rewrite each set in the form `$\{x \in \mathbb{Z}: \ p(x)\}$`. (Refer to the tex
 - `$B = \{x \in \mathbb{Z}: \ -3 \leq x \leq 3\}$`
 - `$C = \{x \in \mathbb{Z}: \ -2 \leq x \leq 2 \ \text{excluding zero}\}$`
 
-**QUESTION 1.7**
+**QUESTION 1.7.**
 
 The _defining condition_ of a set `$E = \{..., -4, -2, 0, 2, 4, ...\}$` can be written as
 
@@ -106,7 +106,7 @@ Describe the following sets similarly.
 - `$B = \{..., -10, -5, 0, 5, 10, ...\} = \{5x: x \in \mathbb{Z}\}$`
 - `$C = \{1, 8, 27, 64, 125, ...\} = \{x^3: x \in \mathbb{Z}\}$`
 
-**QUESTION 1.8**
+**QUESTION 1.8.**
 
 Let
 
@@ -160,3 +160,20 @@ $$
 \end{aligned}
 $$
 
+## 1.2 Subsets
+
+### Worked examples
+
+**EXAMPLE 1.6.**
+
+> We have two sets `$A$` and `$B$` that are each a subset of `$\{1, 2, 3, 4, 5\}$` and share the same dimension, such that `$|A| = |B| = 3$`.
+>
+> We also have the following constraints:
+>
+> - 1 belongs to `$A$` but not `$B$`.
+> - 2 belongs to `$A$` but not `$B$`.
+> - 3 belongs to exactly one of `$A$` and `$B$`.
+> - 4 belongs to exactly one of `$A$` and `$B$`.
+> - 5 belongs to at least one of `$A$` and `$B$`.
+>
+> What are the possibilities for the set `$A$`?
