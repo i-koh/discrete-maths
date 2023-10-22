@@ -209,7 +209,7 @@ $$
 
 $$
 \begin{aligned}
-\mathcal{P}(A) &= \\{ \\{\varnothing\\} \\{a\\}, \\{b\\}, \\{a, b\\}\\ } \\
+\mathcal{P}(A) &= \\{ \\{\varnothing\\} \\{a\\}, \\{b\\}, \\{a, b\\} \\} \\
 |A| &= 2 \\
 |\mathcal{P}(A)| &= 4
 \end{aligned}
