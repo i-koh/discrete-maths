@@ -224,3 +224,5 @@ $$
 |\mathcal{P}(A)| &= 8
 \end{aligned}
 $$
+
+Be aware that, in `$\mathcal{P}(A)$`, `$\varnothing$` appears as itself and not `$\{\varnothing\}$` (subset of an empty set), `$\varnothing \neq \{\varnothing\}$`.
