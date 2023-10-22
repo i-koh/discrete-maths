@@ -194,3 +194,9 @@ We finish off both sets by determining what goes into which so that both will ha
 **EXAMPLE 1.8.**
 
 For each set `$A$` below, determine `$\mathcal{P}(A)$`, `$|A|$` and `$|\mathcal{P}(A)|$`.
+
+> `$A = \{\varnothing\}$`
+
+> `$A = \{a, b\}$`
+
+> `$A = \{1, 2, 3\}$`
