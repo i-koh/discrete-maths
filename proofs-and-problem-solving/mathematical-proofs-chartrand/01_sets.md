@@ -114,11 +114,11 @@ $$
 
 > Describe the set `$A$` by listing its elements.
 
-    `$A = \{-4, -3, -2, 2, 3, 4\}$`
+`$A = \{-4, -3, -2, 2, 3, 4\}$`
 
 > Give an example of three elements that belong to `$B$` but do not belong to `$A$`.
 
-    `$\left\{\frac{8}{3}, \frac{10}{3}, \frac{11}{3}\right\}$`
+`$\left\{\frac{8}{3}, \frac{10}{3}, \frac{11}{3}\right\}$`
 
 > Describe the set `$C$` by listing its elements.
 
