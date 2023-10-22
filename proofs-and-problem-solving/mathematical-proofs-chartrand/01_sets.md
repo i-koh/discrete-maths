@@ -51,28 +51,35 @@ Let `$S = \{-2, -1, 0, 1, 2, 3\}$`. The task is to describe the following sets i
 
 List the elements of the following sets within braces.
 
-- `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`  
-    `$\{-3, -2, -1, 0, 1, 2, 3, 4\}$`
-- `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`  
-    `$\{1, 2\}$`
-- `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`  
-    ```
-    ghci> filter (\y -> y < 100) $ map (\x -> x^3) [1..]
-    [1,8,27,64]
-    ```
-- `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
+> `$A = \{n \in \mathbb{Z} : \ -4 < n \leq 4\}$`  
 
-    $$
-    \begin{aligned}
-    x^2 - x &= 0 \\
-    x(x - 1) &= 0 \\
-    \end{aligned}
-    $$
+`$\{-3, -2, -1, 0, 1, 2, 3, 4\}$`
 
-    Since `$x = 0$` or `$x = 1$`, we have `$\{0, 1\}$`.
-- `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
+> `$B = \{n \in \mathbb{Z} : \ n^2 < 5\}$`  
 
-    Since `$x = i$` or `$x = -i$`, we have `$\{\varnothing\}$` as the element of `$E$`.
+`$\{1, 2\}$`
+
+> `$C = \{n \in \mathbb{N} : \ n^3 < 100\}$`  
+    
+```
+ghci> filter (\y -> y < 100) $ map (\x -> x^3) [1..]
+[1,8,27,64]
+```
+
+> `$D = \{x \in \mathbb{R} : \ x^2 - x = 0\}$`
+
+$$
+\begin{aligned}
+x^2 - x &= 0 \\
+x(x - 1) &= 0 \\
+\end{aligned}
+$$
+
+Since `$x = 0$` or `$x = 1$`, we have `$\{0, 1\}$`.
+
+> `$E = \{x \in \mathbb{R} : \ x^2 + 1 = 0\}$`
+
+Since `$x = i$` or `$x = -i$`, we have `$\{\varnothing\}$` as the element of `$E$`.
 
 **QUESTION 1.5**
 
