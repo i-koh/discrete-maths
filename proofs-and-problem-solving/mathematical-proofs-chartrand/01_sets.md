@@ -169,7 +169,7 @@ $$
 - The **universal set** is denoted as `$U$` and it is the set we define in which our subsets of interest live. For example, when using Venn diagrams to draw sets, `$U$` is the rectangle that surround the circles (representing the subsets).
 - If we have two sets `$A$` and `$B$` such that `$A \subseteq B$` and `$B \subseteq A$`, then `$A = B$`. Thus, an element `$x \in A$` is also said to have membership in `$B$`.
 - A set `$A$` is a **proper subset** of a set `$B$` if `$A \subseteq B$` and `$A \neq B$`. In such a case we write `$A \subset B$`.
-- The **power set** of a given set `$A$` is denoted as `$\mathcal{P}(A)$` and constitutes all combinations of subsets of `$A$`. Hence, if `$A = \{1, 2\}$`, then `$\mathcal{P}(A) = \{\{1\}, \{2\}, \{1, 2\}\}$`. It is called a power set because, if `$A$` is a finite set, then `$\mathcal{P}(A) = 2^{|A|}$`. Notice that there is no specification stating that `$A$` must be non-empty – `$\mathcal{P}(\{\varnothing\}) = 2^{|\{\varnothing\}|} = 2^0 = 1$`.
+- The **power set** of a given set `$A$` is denoted as `$\mathcal{P}(A)$` and constitutes all combinations of subsets of `$A$` (which also includes `$A$`, going by the above definition of a subset). Hence, if `$A = \{1, 2\}$`, then `$\mathcal{P}(A) = \{\{1\}, \{2\}, \{1, 2\}\}$`. It is called a power set because, if `$A$` is a finite set, then `$\mathcal{P}(A) = 2^{|A|}$`. Notice that there is no specification stating that `$A$` must be non-empty: `$\mathcal{P}(\{\varnothing\}) = 2^{|\{\varnothing\}|} = 2^0 = 1$`.
 
 ### Worked examples
 
@@ -190,4 +190,6 @@ $$
 We know that `$1$` and `$2$`’s set memberships are mutually exclusive, so we’ll pick `$1$` for `$A$` (meaning that `$2$` goes to `$B$`). `$A$` and `$B$` each has one element. Next we assume that `$5$` is a member of both sets; `$A$` and `$B$` now have two elements each.
 
 We finish off both sets by determining what goes into which so that both will have a dimension of 3. Since `$3$` and `$4$` belong to one set but not the other, we can take our pick of either number for `$A$`. Accordingly, `$A \subseteq \{1, 2, 3, 4, 5\}$` can be described as either `$\{1, 3, 5\}$` or `$\{1, 4, 5\}$`.
+
+**EXAMPLE 1.8.**
 
