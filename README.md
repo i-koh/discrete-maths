@@ -8,6 +8,4 @@ This is the dedicated storage space for maths-related notes, exercise answers an
 `$…$`
 ```
 
-Display maths are best written by enclosing them in `$$`. Within that, use `$\LaTeX$`’s `aligned` environment.
-
-To trigger GitHub’s **online IDE**, replace `github.com/*` with `github.dev/*` and the online editor will load.
+Display maths are best written by enclosing them in double-`$` symbols. Within those, use `$\LaTeX$`’s `aligned` environment. To trigger GitHub’s **online IDE**, replace `github.com/*` with `github.dev/*` and the online editor will load.
