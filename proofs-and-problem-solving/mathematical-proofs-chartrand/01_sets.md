@@ -29,7 +29,7 @@ _Notes and exercise answers_
 
 ## 1.1 Describing a set
 
-### Exercises
+### 1.1 Exercises
 
 **QUESTION 1.1.**
 
@@ -171,7 +171,7 @@ $$
 - A set `$A$` is a **proper subset** of a set `$B$` if `$A \subseteq B$` and `$A \neq B$`. In such a case we write `$A \subset B$`.
 - The **power set** of a given set `$A$` is denoted as `$\mathcal{P}(A)$` and constitutes all combinations of subsets of `$A$` (which also includes both `$A$` itself and `$\varnothing$`, based on the above definitions). Hence, if `$A = \{1, 2\}$`, then `$\mathcal{P}(A) = \{\varnothing, \{1\}, \{2\}, \{1, 2\}\}$`. It is called a power set because, if `$A$` is a finite set, then `$\mathcal{P}(A) = 2^{|A|}$`. Notice that there is no specification stating that `$A$` must be non-empty: `$\mathcal{P}(\varnothing) = 2^{|\varnothing|} = 2^0 = 1$`.
 
-### Worked examples
+### 1.2 Worked examples
 
 **EXAMPLE 1.6.**
 
@@ -227,7 +227,7 @@ $$
 
 **Be aware that,** in `$\mathcal{P}(A)$`, `$\varnothing$` appears as itself and not `$\{\varnothing\}$` (which is interpreted as a subset containing an empty set). It’s important to remember that `$\varnothing \neq \{\varnothing\}$`.
 
-### Exercises
+### 1.2 Exercises
 
 **QUESTION 1.14.**
 
