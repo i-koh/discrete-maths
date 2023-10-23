@@ -8,4 +8,4 @@ This is the dedicated storage space for maths-related notes, exercise answers an
 `$…$`
 ```
 
-Display maths are best written by enclosing them in $$ symbols. Within those, use `$\LaTeX$`’s `aligned` environment. To trigger GitHub’s **online IDE**, replace `github.com/*` with `github.dev/*` and the online editor will load.
+Display maths are best written by enclosing them in $$ symbols. Within those, use `$\LaTeX$`’s `aligned` environment. See the syntax in [this Markdown file](https://github.com/i-koh/discrete-maths/blob/main/proofs-and-problem-solving/mathematical-proofs-chartrand/01_sets.md) for examples. To trigger GitHub’s **online IDE**, replace `github.com/*` with `github.dev/*` and the online editor will load.
