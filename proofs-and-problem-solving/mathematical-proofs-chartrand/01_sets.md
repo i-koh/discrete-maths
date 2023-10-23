@@ -251,5 +251,7 @@ $$
 \begin{aligned}
 \mathcal{P}(\mathcal{P}(\\{1\\})) &= \mathcal{P(\\{ \varnothing, \\{1\\} \\})} \\
 &= \\{ \varnothing, \\{\varnothing\\}, \\{1\\}, \\{\varnothing, \\{1\\}\\} \\}
-\end{aligned}
+\end{aligned} \\
+\\
+|\mathcal{P}(\mathcal{P}(\{1\}))| = 4
 $$
