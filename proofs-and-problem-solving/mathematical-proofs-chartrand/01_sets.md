@@ -247,3 +247,9 @@ Find `$\mathcal{P}(A)$` and `$|\mathcal{P}(A)|$` for the following sets.
 
 > Find `$\mathcal{P}(\mathcal{P}(\{1\}))$` and its cardinality.
 
+$$
+\begin{aligned}
+\mathcal{P}(\mathcal{P}(\\{1\\})) &= \mathcal{P(\\{ \varnothing, \\{1\\} \\})} \\
+&= 
+\end{aligned}
+$$
