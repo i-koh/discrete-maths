@@ -235,7 +235,7 @@ Find `$\mathcal{P}(A)$` and `$|\mathcal{P}(A)|$` for the following sets.
 
 > `$A = \{1, 2\}$`
 
-`$\mathcal{P}(A) = \{ \varnothing, \{1\}, \{2\}, \{1, 2\} \}$`
+`$\mathcal{P}(A) = \{ \varnothing, \{1\}, \{2\}, \{1, 2\} \}$`  
 `$|\mathcal{P}(A)| = 4$`
 
 > `$A = \{\varnothing, 1, \{a\}\}$`
