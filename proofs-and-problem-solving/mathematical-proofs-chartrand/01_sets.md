@@ -262,6 +262,8 @@ Determine whether the following statements are true or false.
 
 > If `$\{1\} \in \mathcal{P}(A)$`, then `$1 \in A$` but `$\{1\} \notin A$`.
 
+False. `$1$` will indeed be a member of `$A$` but `$\{1\}$` could also be a member in the same set. If appearing alone in `$\mathcal{P}(A)$`, the latter would appear as `$\{ \{1\} \}$`.
+
 > If `$A$`, `$B$` and `$C$` are sets such that `$A \subset \mathcal{P}(B) \subset C$` and `$|A| = 2$`, then `$|C|$` can be `$5$` but not `$4$`.
 
 > If a set `$B$` has one more element than a set `$A$`, then `$\mathcal{P}(B)$` has at least two more elements than `$\mathcal{P}(A)$`.
