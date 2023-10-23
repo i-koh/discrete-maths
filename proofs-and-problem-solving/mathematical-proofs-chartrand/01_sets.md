@@ -255,3 +255,11 @@ $$
 |\mathcal{P}(\mathcal{P}(\\{1\\}))| &= 4
 \end{aligned}
 $$
+
+**QUESTION 1.20.**
+
+Determine whether the following statements are true or false.
+
+> If `$\{1\} \in \mathcal{P}(A)$`, then `$1 \in A$` but `$\{1\} \notin A$`.
+
+> If `$A$`, `$B$` and `$C$` are sets such that `$A \subset \mathcal{P}(B) \subset C$` and `$|A| = 2$`, then `$|C|$` can be 5 but not 4.
