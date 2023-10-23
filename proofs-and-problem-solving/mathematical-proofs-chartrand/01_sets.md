@@ -226,3 +226,13 @@ $$
 $$
 
 **Be aware that,** in `$\mathcal{P}(A)$`, `$\varnothing$` appears as itself and not `$\{\varnothing\}$` (which is interpreted as a subset containing an empty set). It’s important to remember that `$\varnothing \neq \{\varnothing\}$`.
+
+## Exercises
+
+**QUESTION 1.14**
+
+Find `$\mathcal{P}(A)$` and `$|\mathcal{P}(A)|$` for the following sets.
+
+> `$A = \{1, 2\}$`
+
+> `$A = \{\varnothing, 1, \{a\}\}$`
