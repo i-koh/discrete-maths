@@ -242,3 +242,8 @@ Find `$\mathcal{P}(A)$` and `$|\mathcal{P}(A)|$` for the following sets.
 
 `$\mathcal{P}(A) = \{ \varnothing, \{\varnothing\}, \{1\}, \{\{a\}\}, \{\varnothing, 1\}, \{\varnothing, \{a\}\}, \{1, \{a\}\}, \{\varnothing, 1, \{a\}\} \}$`  
 `$|\mathcal{P}(A)| = 8$`
+
+**QUESTION 1.16.**
+
+> Find `$\mathcal{P}(\mathcal{P}(\{1\}))$` and its cardinality.
+
