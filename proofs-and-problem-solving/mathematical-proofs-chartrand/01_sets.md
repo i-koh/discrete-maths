@@ -229,7 +229,7 @@ $$
 
 ## Exercises
 
-**QUESTION 1.14**
+**QUESTION 1.14.**
 
 Find `$\mathcal{P}(A)$` and `$|\mathcal{P}(A)|$` for the following sets.
 
@@ -239,3 +239,6 @@ Find `$\mathcal{P}(A)$` and `$|\mathcal{P}(A)|$` for the following sets.
 `$|\mathcal{P}(A)| = 4$`
 
 > `$A = \{\varnothing, 1, \{a\}\}$`
+
+`$\mathcal{P}(A)$ = \{ \varnothing, \{\varnothing\}, \{1\}, \{\{a\}\}, \{\varnothing, 1\}, \{\varnothing, \{a\}\}, \{1, \{a\}\}, \{\varnothing, 1, \{a\}\} \}`  
+`$|\mathcal{P}(A)| = 8$`
