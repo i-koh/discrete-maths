@@ -250,6 +250,6 @@ Find `$\mathcal{P}(A)$` and `$|\mathcal{P}(A)|$` for the following sets.
 $$
 \begin{aligned}
 \mathcal{P}(\mathcal{P}(\\{1\\})) &= \mathcal{P(\\{ \varnothing, \\{1\\} \\})} \\
-&= 
+&= \\{ \varnothing, \\{\varnothing\\}, \\{1\\}, \\{\varnothing, \\{1\\}\\} \\}
 \end{aligned}
 $$
