@@ -17,7 +17,7 @@ _Notes and exercise answers_
     ```
     `$\{<elements_of_set>\}$`
     ```
-- For **displays**, use this form and note that the curly braces have to be escaped _twice_:
+- For **displays**, use this form and note that the [curly braces have to be escaped _twice_](https://stackoverflow.com/questions/41312777/mathjax-curly-brackets-dont-show-up-using-jekyll):
     ```
     $$
     \begin{aligned}
@@ -193,7 +193,7 @@ We finish off both sets by determining what goes into which so that both will ha
 
 **EXAMPLE 1.8.**
 
-For each set `$A$` below, determine `$\mathcal{P}(A)$`, `$|A|$` and `$|\mathcal{P}(A)|$`.
+For each set `$A$` below, determine the power set `$\mathcal{P}(A)$`, `$|A|$` and `$|\mathcal{P}(A)|$`.
 
 > `$A = \{\varnothing\}$`
 
