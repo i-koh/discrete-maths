@@ -274,7 +274,7 @@ True. We consider an example where `$|B| = 5$` and `$|A| = 4$`. Then `$\mathcal{
 
 > If four sets `$A$`, `$B$`, `$C$` and `$D$` are subsets of `$\{1, 2, 3\}$` such that `$|A| = |B| = |C| = |D| = 2$`, then at least two of these sets are equal.
 
-True. Since `${3\choose2} = 3$`, and we have four sets, at leaset two of them necessarily have to be identical.
+True. Since `${3\choose2} = 3$`, and we have four sets containing two elements each, at least two of them necessarily have to be identical.
 
 ## 1.3 Set operations
 
