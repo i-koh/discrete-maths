@@ -273,3 +273,5 @@ False. The set `$C$` could also be `$4$` because of the requirement that a prope
 True. We consider an example where `$|B| = 5$` and `$|A| = 4$`. Then `$\mathcal{P}(B) = 2^{4 + 1} = 2^4\cdot2^1 = 32$` and `$\mathcal{P}(A) = 2^4 = 16$`. If the two sets differ by one element, then `$B$`’s power set will contain twice the number of elements than `$A$`’s power set.
 
 > If four sets `$A$`, `$B$`, `$C$` and `$D$` are subsets of `$\{1, 2, 3\}$` such that `$|A| = |B| = |C| = |D| = 2$`, then at least two of these sets are equal.
+
+True. Since `$3\choose2 = 3$`,
