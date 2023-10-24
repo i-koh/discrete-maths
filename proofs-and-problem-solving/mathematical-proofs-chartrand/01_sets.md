@@ -266,6 +266,8 @@ False. `$1$` will indeed be a member of `$A$` but `$\{1\}$` could also be a memb
 
 > If `$A$`, `$B$` and `$C$` are sets such that `$A \subset \mathcal{P}(B) \subset C$` and `$|A| = 2$`, then `$|C|$` can be `$5$` but not `$4$`.
 
+False. `$C$` could also be `$4$` because of the requirement that a proper subset not be identical to its parent set. If we increment the set membership count by one, then we have `$|A| = 2, |\mathcal{P}(B)| = 3$` and `$|C| = 4$`.
+
 > If a set `$B$` has one more element than a set `$A$`, then `$\mathcal{P}(B)$` has at least two more elements than `$\mathcal{P}(A)$`.
 
 > If four sets `$A$`, `$B$`, `$C$` and `$D$` are subsets of `$\{1, 2, 3\}$` such that `$|A| = |B| = |C| = |D| = 2$`, then at least two of these sets are equal.
