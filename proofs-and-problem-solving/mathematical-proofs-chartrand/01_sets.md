@@ -278,4 +278,4 @@ True. Since `${3\choose2} = 3$`, and we have four sets containing two elements e
 
 ## 1.3 Set operations
 
-
+- **Union:** `$A \cup B = \{x: \ x \in A \ \text{or} \ x \in B\}$`
