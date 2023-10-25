@@ -280,7 +280,7 @@ True. Since `${3\choose2} = 3$`, and we have four sets containing two elements e
 
 - **Union:** `$A \cup B = \{x: \ x \in A \ \text{or} \ x \in B\}$`
 - **Intersection:** `$A \cap B = \{x: \ x \in A \ \text{and} \ x \in B\}$`
-- For two sets `$A$` and `$B$`, their intersection is a subset of their union: `$\A \cap \B \subseteq \A \cup \B$`
+- For two sets `$A$` and `$B$`, their intersection is a subset of their union: `$A \cap B \subseteq A \cup B$`
 - If `$A \cap B = \varnothing$`, then the sets `$A$` and `$B$` are said to be **disjoint**; a real-world example of this is the sets `$\mathbb{Q}$` and `$\mathbb{I}$`
 - The **difference** `$A - B$` of two sets `$A$` and `$B$` is defined as `$A - B = \{x: \ x \in A \ \text{and} \ x \not\in B\}$`; this is essentially what a **left anti-join** is
 - Consider a universal set `$U$` in which all sets of interest are subsets of it, including the set `$A$`
