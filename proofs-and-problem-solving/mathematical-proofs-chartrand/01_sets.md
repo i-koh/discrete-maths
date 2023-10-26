@@ -288,3 +288,21 @@ True. Since `${3\choose2} = 3$`, and we have four sets containing two elements e
   - The complement of `$A$` could also be written as `$A^{\prime}$`
   - We use the `overline` command in `$\LaTeX$` rather than `bar` to denote the complement (the latter results in a narrow bar)
 - Going back to the difference of two sets, the set `$A - B$` can be expressed in terms of complements: `$A - B = A \cap \overline{B}$`
+
+## 1.3 Exercises
+
+**QUESTION 1.22.**
+
+Let `$U = \{1, 3, ..., 15\}$` be the universal set, `$A = \{1, 5, 9, 13\}$` and `$B = \{3, 9, 15\}$`. Determine the following sets.
+
+> `$A \cup B$`
+
+> `$A \cap B$`
+
+> `$A - B$`
+
+> `$B - A$`
+
+> `$\overline{A}$`
+
+> `$A \cap \overline{B}$`
