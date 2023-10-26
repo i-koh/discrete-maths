@@ -287,3 +287,4 @@ True. Since `${3\choose2} = 3$`, and we have four sets containing two elements e
   - Then, the **complement** of `$A$` is denoted as `$\overline{A} = U - A = \{x: \ x \in U \ \text{and} \ x \not\in A\}$`; notice the complement is defined in terms of a difference
   - The complement of `$A$` could also be written as `$A^{\prime}$`
   - We use the `overline` command in `$\LaTeX$` rather than `bar` to denote the complement (the latter results in a narrow bar)
+- Going back to the difference of two sets, the set `$A - B$` can be expressed in terms of complements: `$A - B = A \cap \overline{B}$`
