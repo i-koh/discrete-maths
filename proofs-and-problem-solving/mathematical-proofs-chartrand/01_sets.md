@@ -318,3 +318,12 @@ Let `$U = \{1, 3, ..., 15\}$` be the universal set, `$A = \{1, 5, 9, 13\}$` and 
 > `$A \cap \overline{B}$`
 
 This is the same as `$A - B$`.
+
+**QUESTION 1.30.**
+
+Let `$A = \{x \in \mathbb{R}: \ |x - 1| \leq 2\}$`, `$B = \{x \in \mathbb{R}: \ |x| \geq 1\}$` and `$C = \{x \in \mathbb{R}: \ |x + 2| \leq 3\}$`.
+
+> Express `$A$`, `$B$` and `$C$` using interval notation.
+
+> Determine each of the following sets using interval notation:  
+> `$A \cup B$`, `$A \cap B$`, `$B \cap C$`, `$B - C$`.
