@@ -325,5 +325,9 @@ Let `$A = \{x \in \mathbb{R}: \ |x - 1| \leq 2\}$`, `$B = \{x \in \mathbb{R}: \ 
 
 > Express `$A$`, `$B$` and `$C$` using interval notation.
 
+`$A = [-1, 3]$`  
+`$B = (-\infty, -1] \cup [1, \infty)$`  
+`$C = [-5, 1]$`
+
 > Determine each of the following sets using interval notation:  
 > `$A \cup B$`, `$A \cap B$`, `$B \cap C$`, `$B - C$`.
