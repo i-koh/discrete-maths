@@ -331,3 +331,8 @@ Let `$A = \{x \in \mathbb{R}: \ |x - 1| \leq 2\}$`, `$B = \{x \in \mathbb{R}: \ 
 
 > Determine each of the following sets using interval notation:  
 > `$A \cup B$`, `$A \cap B$`, `$B \cap C$`, `$B - C$`.
+
+`$A \cup B = (-\infty, \infty)$`  
+`$A \cap B = [-1] \cup [1, 3]$`  
+`$B \cap C = [-5, -1] \cup [1]$`  
+`$B - C = (-\infty, -6] \cup [2, \infty)$`
